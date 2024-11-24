@@ -1,0 +1,16 @@
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.centr{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+margin-top: 100px;
+  flex-direction: column;
+}
+.file{
+  text-align: center;
+}
